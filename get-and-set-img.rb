@@ -15,5 +15,5 @@ image_file_name = "/Users/amanda.walter/Pictures/" + image_url.split('/').last
 filepath = File.path(image_file_name)
 
 
-`sh /Users/amanda.walter/Development/Projects/daily_desktop_picture/ng_set.sh #{filepath}`
+`sh /Users/amanda.walter/Development/Projects/daily_desktop_picture/img-set-osa.sh #{filepath}`
 
